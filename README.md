@@ -1,2 +1,2 @@
 # Vin
-An AI assistant,it will help you to improve AI knowledge 
+Hey ,iam your AI assistant.I will help you to gain AI knowledge 
